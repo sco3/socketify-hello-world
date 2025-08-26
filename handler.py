@@ -1,6 +1,6 @@
 from http.server import BaseHTTPRequestHandler
 
-CONTENT_TYPE = "Content-type"
+CONTENT_TYPE = "Content-Type"
 TEXT_PLAIN = "text/plain"
 HELLO = "Hello, World!\n"
 UTF8 = "utf-8"
